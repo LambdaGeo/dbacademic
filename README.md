@@ -4,4 +4,4 @@ As instituições públicas detêm um grande volume de dados que poderiam ser us
 
 ## Sparql endpoint
 
-* [sparql.dbacademic.tech](sparql.dbacademic.tech)
+* [https://sparql.dbacademic.tech](https://sparql.dbacademic.tech)
