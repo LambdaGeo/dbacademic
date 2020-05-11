@@ -1,0 +1,17 @@
+# main links links
+main:
+  - title: "Ensino"
+    url: /#ensino    
+    
+  - title: "Projetos"
+    url: /#projetos
+
+  - title: "Publicações"
+    url: /#publicações
+
+  - title: "Minicursos"
+    url: /#minicursos
+    
+  - title: "Blog Posts"
+    url: /year-archive/
+    
