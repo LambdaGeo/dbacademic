@@ -1,17 +1,14 @@
-# main links links
-main:
-  - title: "Ensino"
-    url: /#ensino    
-    
-  - title: "Projetos"
-    url: /#projetos
+# Belongs at: /_data/navigation.yml
 
-  - title: "Publicações"
-    url: /#publicações
+- title: Home
+  url: /
 
-  - title: "Minicursos"
-    url: /#minicursos
-    
-  - title: "Blog Posts"
-    url: /year-archive/
-    
+- title: Group of Things
+  url: /group/
+  sublinks:
+    - title: Sub-item 1
+      url: /group/si1
+    - title: Sub-item 2
+      url: /group/si2
+    - title: Sub-item 3
+      url: /group/si3
