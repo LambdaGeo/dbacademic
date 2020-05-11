@@ -1,5 +1,4 @@
 
-{{ site.data.navigation}}
 
 # Resumo
 
