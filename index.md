@@ -1,4 +1,6 @@
 
+{{ site.data.navigation}}
+
 # Resumo
 
 <div style="text-align: justify">
