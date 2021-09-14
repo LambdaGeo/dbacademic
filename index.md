@@ -31,6 +31,12 @@ No entanto, para cumprir o propósito do projeto foram selecionados alguns conju
 | <i>Monografias (Trabalhos de Conclusão de Curso)</i> | Informações sobre as monografias (ou trabalho de conclusão) dos discentes, tais como  título, nome do aluno, nome do orientador, nome do curso, ano e data da defesa. |
 | <i>Discente</i> | Este conjunto engloba as informações dos alunos ativos, por ingresso ou egressos da universidade. Usualmente, contém poucos atributos, como nome do aluno, matrícula, período de ingresso e nome do curso. |
 
+## Portal não oficial de dados abertos da UFMA
+
+Esse portal foi desenvolvido para prover alguns dados que não estavam disponíveis através do portal oficial.
+
+* [Portal de dados abertos](https://dados-ufma.herokuapp.com/)
+
 ## Portais oficiais de dados abertos
 
 1. [Instituto Federal de Ciência Tecnologia e Educação Catarinense - IFC](http://dadosabertos.ifc.edu.br/)
