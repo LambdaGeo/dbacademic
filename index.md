@@ -41,7 +41,7 @@ No entanto, para cumprir o propósito do projeto foram selecionados alguns conju
 
 ## Orientações
 
-1. UMA SOLUÇÃO EXTENSÍVEL PARA EXTRAÇÃO DE DADOS PÚBLICOS PARA DADOS CONECTADOS, MATEUS VITOR DUARTE SOUSA , 07/2019
+1. Uma Solução Extensível Para Extração De Dados Públicos Para Dados Conectados, MATEUS VITOR DUARTE SOUSA , 07/2019
 2. Migrando dos dados abertos para dados conectados: uma proposta para a Universidade Federal do Maranhão, JOSE VICTOR MEIRELES GUIMARAES , 12/2018
 3. Um estudo exploratório sobre ferramentas para o armazenamento e a publicação de dados conectados, EDDYE CANDIDO DE OLIVEIRA , 07/2017
 4. Abrindo os dados públicos da Universidade Federal do Maranhão, MICAEL LOPES DA SILVA , 01/2017
