@@ -31,6 +31,22 @@ No entanto, para cumprir o propósito do projeto foram selecionados alguns conju
 | <i>Monografias (Trabalhos de Conclusão de Curso)</i> | Informações sobre as monografias (ou trabalho de conclusão) dos discentes, tais como  título, nome do aluno, nome do orientador, nome do curso, ano e data da defesa. |
 | <i>Discente</i> | Este conjunto engloba as informações dos alunos ativos, por ingresso ou egressos da universidade. Usualmente, contém poucos atributos, como nome do aluno, matrícula, período de ingresso e nome do curso. |
 
+
+## Publicações
+
+1. Costa, Sérgio Souza; DUARTE, M. V. ; Silva, Micael Lopes ; OLIVEIRA, E. C. ; GUIMARAES, J. V. M. . DBacademic: Conectando os dados abertos das instituições de ensino do Brasil.. CIÊNCIA DA INFORMAÇÃO (ONLINE), v. 49, p. 142-158, 2021.
+2. Costa, Sérgio; Sousa, Mateus ; da Silva, Micael . Os cinco passos para transformar qualquer site de dados públicos em uma API de dados abertos. Minicursos da ERCEMAPI e EAComp 2019. 1ed.: SBC, 2019, v. , p. 90-112.
+3. Costa, Sérgio; DUARTE, M. V. ; SILVA, M. L. ; OLIVEIRA, E. C. ; GUIMARAES, J. V. M. Uma solução semi-automática para extração, transformação e carga de dados conectados. In: III Workshop de Informação, Dados e Tecnologia (WIDaT 2019), 2019, Brasilia. Workshop de informação, dados e tecnologia (WIDAT 2019), 2019.
+4. GUIMARAES, J. V. M. ; OLIVEIRA, E. C. ; Costa, Sérgio Souza . Migrando dos dados abertos para dados conectados: uma proposta para a Universidade Federal do Maranhão. In: JIM 2018 - VII Jornada de Informática do Maranhão, 2018, São Luis - MA. JIM 2018 - VII Jornada de Informática do Maranhão, 2018.
+
+## Orientações
+
+1. UMA SOLUÇÃO EXTENSÍVEL PARA EXTRAÇÃO DE DADOS PÚBLICOS PARA DADOS CONECTADOS, MATEUS VITOR DUARTE SOUSA , 07/2019
+2. Migrando dos dados abertos para dados conectados: uma proposta para a Universidade Federal do Maranhão, JOSE VICTOR MEIRELES GUIMARAES , 12/2018
+3. Um estudo exploratório sobre ferramentas para o armazenamento e a publicação de dados conectados, EDDYE CANDIDO DE OLIVEIRA , 07/2017
+4. Abrindo os dados públicos da Universidade Federal do Maranhão, MICAEL LOPES DA SILVA , 01/2017
+
+
 ## Portal não oficial de dados abertos da UFMA
 
 Esse portal foi desenvolvido para prover alguns dados que não estavam disponíveis através do portal oficial.
