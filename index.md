@@ -10,7 +10,7 @@ As instituições públicas detêm um grande volume de dados que poderiam ser us
 
 ## Sparql endpoint
 
-* [http://sparql.dbacademic.tech](http://sparql.dbacademic.tech) 
+*   [http://sparql.dbacademic.tech](https://dbacademic-sparql.up.railway.app/)) 
 
 ## Conjunto de Dados
 
