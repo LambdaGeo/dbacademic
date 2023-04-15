@@ -51,7 +51,7 @@ No entanto, para cumprir o propósito do projeto foram selecionados alguns conju
 
 Esse portal foi desenvolvido para prover alguns dados que não estavam disponíveis através do portal oficial.
 
-* [Portal de dados abertos](https://dados-ufma.herokuapp.com/)
+* [Portal de dados abertos](https://opendata-ufma.up.railway.app/)
 
 ## Portais oficiais de dados abertos
 
